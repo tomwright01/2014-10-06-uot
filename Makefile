@@ -114,7 +114,7 @@ site : $(INDEX)
 
 ## check    : check that the index.html file is properly formatted.
 check :
-	@python bin/swc_index_validator.py ./index.html
+	@python3 bin/swc_index_validator.py ./index.html
 
 ## clean    : clean up all generated files.
 clean : tidy
