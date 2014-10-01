@@ -21,10 +21,10 @@ root: ../..
 </div>
 
 <div id="graphic" style="background-color:#fffacd">
-<table>
+<table border="1">
 	<tr>
 	<td valign="top">
-	<table>
+	<table border="1">
 	<tr><td colspan="3"><strong>Person</strong>: people who took readings.</td></tr>
 		<tr> <th>
 		ident
@@ -69,7 +69,7 @@ root: ../..
 		Danforth
 		</td> </tr>
 	</table>
-	<table>
+	<table border="1">
 	<tr><th colspan="3"><strong>Site</strong>: locations where readings were taken.</th></tr>
 	  <tr> <th>
 	name
@@ -101,7 +101,7 @@ root: ../..
 	</td> </tr>
 	</table>
 
-	<table>
+	<table border="1">
 	<tr><th colspan="3"><strong>Visited</strong>: when readings were taken at specific sites.</th></tr>
 	  <tr> <th>
 	ident
@@ -170,7 +170,7 @@ root: ../..
 	</td>
 	<td valign="top">
 
-	<table>
+	<table border="1">
 	<tr><th colspan="4"><strong>Survey</strong>: the actual readings.</th></tr>
 	  <tr> <th>
 	taken
