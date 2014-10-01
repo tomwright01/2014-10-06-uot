@@ -8,8 +8,8 @@ root: ../..
 <div class="objectives">
 <h4 id="objectives">Objectives</h4>
 <ul>
-<li>Explain the difference between a table, a record, and a field.</li>
 <li>Explain the difference between a database and a database manager.</li>
+<li>Explain the difference between a table, a record, and a field.</li>
 </ul>
 </div>
 
@@ -18,7 +18,7 @@ root: ../..
 <div>
 <p>A database application consists of the <em>data</em>; the <em>database manager</em> and (one or more) <em>clients</em>.</p>
 <p>All interactions with the data are moderated through the database manager.</p>
-<img href='img/sql-client server.svg' alt='Database client server model'/>
+<img src='img/sql-client-server.svg' alt='Database client server model'/>
 <blockquote>
 <p>Every database manager—Oracle, IBM DB2, PostgreSQL, MySQL, Microsoft Access, and SQLite—stores data in a different way, so a database created with one cannot be used directly by another. However, every database manager can import and export data in a variety of formats, so it <em>is</em> possible to move information from one to another.</p>
 </blockquote>
@@ -30,7 +30,7 @@ root: ../..
 ### Database structures
 <div>
 <p>A <a href="../../gloss.html#relational-database">relational database</a> is a way to store and manipulate information that is arranged as <a href="../../gloss.html#table-database">tables</a>. Each table has columns (also known as <a href="../../gloss.html#field-database">fields</a>) which describe the data, and rows (also known as <a href="../../gloss.html#record-database">records</a>) which contain the data. The structure of the tables and fields is called the <em>schema</em>.</p>
-<img href='img/sql-table field.svg' alt='Database structure'/>
+<img src='img/sql-table-field.svg' alt='Database structure'/>
 </div>
 
 ### Communicating with the database
