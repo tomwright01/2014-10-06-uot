@@ -117,14 +117,6 @@ select distinct taken, quant from Survey;</pre>
 
 
 <div>
-<h4 id="challenges">Challenges</h4>
-<ol style="list-style-type: decimal">
-<li>Write a query that selects distinct dates from the <code>Site</code> table.</li>
-</ol>
-</div>
-
-
-<div>
 <p>As we mentioned earlier, database records are not stored in any particular order. This means that query results aren't necessarily sorted, and even if they are, we often want to sort them in a different way, e.g., by the name of the project instead of by the name of the scientist. We can do this in SQL by adding an <code>order by</code> clause to our query:</p>
 </div>
 
