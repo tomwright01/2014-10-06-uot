@@ -222,7 +222,7 @@ where quant=&#39;rad&#39;;</pre>
 
 <div class="out">
 <pre><table>
-<tr><td>roe</td><td>8</td><td>6.56</td></tr>
+<tr><td>roe</td><td>8&nbsp</td><td>6.56</td></tr>
 </table></pre>
 </div>
 
@@ -242,7 +242,7 @@ and   person=&#39;dyer&#39;;</pre>
 
 <div class="out">
 <pre><table>
-<tr><td>dyer</td><td>2</td><td>8.81</td></tr>
+<tr><td>dyer</td><td>2&nbsp</td><td>8.81</td></tr>
 </table></pre>
 </div>
 
@@ -263,10 +263,10 @@ group by person;</pre>
 
 <div class="out">
 <pre><table>
-<tr><td>dyer</td><td>2</td><td>8.81</td></tr>
-<tr><td>lake</td><td>2</td><td>1.82</td></tr>
-<tr><td>pb</td><td>3</td><td>6.66</td></tr>
-<tr><td>roe</td><td>1</td><td>11.25</td></tr>
+<tr><td>dyer</td><td>2&nbsp</td><td>8.81</td></tr>
+<tr><td>lake</td><td>2&nbsp</td><td>1.82</td></tr>
+<tr><td>pb</td><td>3&nbsp</td><td>6.66</td></tr>
+<tr><td>roe</td><td>1&nbsp</td><td>11.25</td></tr>
 </table></pre>
 </div>
 
@@ -290,17 +290,17 @@ group by person, quant;</pre>
 
 <div class="out">
 <pre><table>
-<tr><td>None</td><td>sal</td><td>1</td><td>0.06</td></tr>
-<tr><td>None</td><td>temp</td><td>1</td><td>-26.0</td></tr>
-<tr><td>dyer</td><td>rad</td><td>2</td><td>8.81</td></tr>
-<tr><td>dyer</td><td>sal</td><td>2</td><td>0.11</td></tr>
-<tr><td>lake</td><td>rad</td><td>2</td><td>1.82</td></tr>
-<tr><td>lake</td><td>sal</td><td>4</td><td>0.11</td></tr>
-<tr><td>lake</td><td>temp</td><td>1</td><td>-16.0</td></tr>
-<tr><td>pb</td><td>rad</td><td>3</td><td>6.66</td></tr>
-<tr><td>pb</td><td>temp</td><td>2</td><td>-20.0</td></tr>
-<tr><td>roe</td><td>rad</td><td>1</td><td>11.25</td></tr>
-<tr><td>roe</td><td>sal</td><td>2</td><td>32.05</td></tr>
+<tr><td>None</td><td>sal</td><td>1&nbsp</td><td>0.06</td></tr>
+<tr><td>None</td><td>temp</td><td>1&nbsp</td><td>-26.0</td></tr>
+<tr><td>dyer</td><td>rad</td><td>2&nbsp</td><td>8.81</td></tr>
+<tr><td>dyer</td><td>sal</td><td>2&nbsp</td><td>0.11</td></tr>
+<tr><td>lake</td><td>rad</td><td>2&nbsp</td><td>1.82</td></tr>
+<tr><td>lake</td><td>sal</td><td>4&nbsp</td><td>0.11</td></tr>
+<tr><td>lake</td><td>temp</td><td>1&nbsp</td><td>-16.0</td></tr>
+<tr><td>pb</td><td>rad</td><td>3&nbsp</td><td>6.66</td></tr>
+<tr><td>pb</td><td>temp</td><td>2&nbsp</td><td>-20.0</td></tr>
+<tr><td>roe</td><td>rad</td><td>1&nbsp</td><td>11.25</td></tr>
+<tr><td>roe</td><td>sal</td><td>2&nbsp</td><td>32.05</td></tr>
 </table></pre>
 </div>
 
@@ -322,15 +322,15 @@ order by person, quant;</pre>
 
 <div class="out">
 <pre><table>
-<tr><td>dyer</td><td>rad</td><td>2</td><td>8.81</td></tr>
-<tr><td>dyer</td><td>sal</td><td>2</td><td>0.11</td></tr>
-<tr><td>lake</td><td>rad</td><td>2</td><td>1.82</td></tr>
-<tr><td>lake</td><td>sal</td><td>4</td><td>0.11</td></tr>
-<tr><td>lake</td><td>temp</td><td>1</td><td>-16.0</td></tr>
-<tr><td>pb</td><td>rad</td><td>3</td><td>6.66</td></tr>
-<tr><td>pb</td><td>temp</td><td>2</td><td>-20.0</td></tr>
-<tr><td>roe</td><td>rad</td><td>1</td><td>11.25</td></tr>
-<tr><td>roe</td><td>sal</td><td>2</td><td>32.05</td></tr>
+<tr><td>dyer</td><td>rad</td><td>2&nbsp</td><td>8.81</td></tr>
+<tr><td>dyer</td><td>sal</td><td>2&nbsp</td><td>0.11</td></tr>
+<tr><td>lake</td><td>rad</td><td>2&nbsp</td><td>1.82</td></tr>
+<tr><td>lake</td><td>sal</td><td>4&nbsp</td><td>0.11</td></tr>
+<tr><td>lake</td><td>temp</td><td>1&nbsp</td><td>-16.0</td></tr>
+<tr><td>pb</td><td>rad</td><td>3&nbsp</td><td>6.66</td></tr>
+<tr><td>pb</td><td>temp</td><td>2&nbsp</td><td>-20.0</td></tr>
+<tr><td>roe</td><td>rad</td><td>1&nbsp</td><td>11.25</td></tr>
+<tr><td>roe</td><td>sal</td><td>2&nbsp</td><td>32.05</td></tr>
 </table></pre>
 </div>
 
