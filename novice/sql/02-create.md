@@ -401,6 +401,8 @@ root: ../..
 </table></pre>
 </div>
 
+<a name="step1"></a>
+
 ### Step 1 - Create the database
 
 <p>The <code>sqlite3</code> command takes 1 optional parameter, the file to use for the database.</p>
@@ -461,8 +463,9 @@ sqlite>.tables
 </ol>
 </div>
 
-<p>This method of creating tables is non-repeatable and difficult to audit. A better way is to create a text file with the statements and <a href="../../gloss.html#piipe">pipe</a> this to the sqlite command. We will use this method later.</p>
+<p>This method of creating tables is non-repeatable and difficult to audit. A better way is to create a text file with the statements and <a href="../../gloss.html#pipe">pipe</a> this to the sqlite command. We will use this method later.</p>
 
+<a name="step3"></a>
 
 ### Step 3 - Enter the data
 
