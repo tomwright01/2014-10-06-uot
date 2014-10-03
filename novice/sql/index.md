@@ -22,8 +22,8 @@ and why they insist on structuring data in certain ways.
 
 <div class="toc" markdown="1">
 
-1.   [Installation and Setup](00-setup.md)
-2.   [Databases](01-databases.md)
+1.   [Installation and Setup](00-setup.html)
+2.   [Databases](01-databases.html)
 3.   [Selecting Data](03-select.html)
 4.   [Sorting and Removing Duplicates](04-sort-dup.html)
 5.   [Filtering](05-filter.html)
