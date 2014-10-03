@@ -22,14 +22,16 @@ and why they insist on structuring data in certain ways.
 
 <div class="toc" markdown="1">
 
-1.  [Selecting Data](01-select.html)
-2.  [Sorting and Removing Duplicates](02-sort-dup.html)
-3.  [Filtering](03-filter.html)
-4.  [Calculating New Values](04-calc.html)
-5.  [Missing Data](05-null.html)
-6.  [Aggregation](06-agg.html)
-7.  [Combining Data](07-join.html)
-8.  [Creating and Modifying Data](08-create.html)
-9.  [Programming with Databases](09-prog.html)
+1.   [Installation and Setup](00-setup.md)
+2.   [Databases](01-databases.md)
+3.   [Selecting Data](03-select.html)
+4.   [Sorting and Removing Duplicates](04-sort-dup.html)
+5.   [Filtering](05-filter.html)
+6.   [Calculating New Values](06-calc.html)
+7.   [Missing Data](07-null.html)
+8.   [Aggregation](08-agg.html)
+9.   [Combining Data](09-join.html)
+10.  [Creating and Modifying Data](10-create.html)
+11.  [Programming with Databases](11-prog.html)
 
 </div>
